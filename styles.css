@@ -35,3 +35,13 @@
     line-height: 94px;
     color: #fff;
 }
+
+.frame{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 240px;
+    top: 536px;
+    background: #F8FAFC;
+    border-radius: 32px;
+}
