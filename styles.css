@@ -7,17 +7,31 @@
     background: #633BBC;
 }
 
-.header{
+.text1{
     position: absolute;
-    width: 847px;
-    height: 180px;
-    left: 240px;
-    top: 160px;
+    width: 5rem;
+    height: 3rem;
+    left: 2rem;
+    top: 2rem;
 
     font-family: 'Roboto', sans-serif;
     font-style: Bold;
     font-weight: 700;
     font-size: 160px;
     line-height: 180px;
+    color: #fff;
+}
+.text2{
+    position: absolute;
+    width: 154px;
+    height: 94px;
+    left: 240px;
+    top: 356px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 94px;
     color: #fff;
 }
