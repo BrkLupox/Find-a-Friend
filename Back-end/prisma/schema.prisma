@@ -27,7 +27,7 @@ model Org{
   email String
   zip_code String
   location String
-  whatsapp String
+  whatsapp String?
   password String
   confirm_password String
 

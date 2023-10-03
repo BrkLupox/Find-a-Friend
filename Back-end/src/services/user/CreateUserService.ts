@@ -29,6 +29,10 @@ class CreateUserService{
             data:{
                 email: email,
                 password: password,
+            },
+            select:{
+                id: true,
+                email: true,
             }
         })
 
